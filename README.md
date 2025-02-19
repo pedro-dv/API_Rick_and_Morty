@@ -22,17 +22,33 @@ Substitui valores "unknown" por "Informação não disponível" para melhor clar
 
 ## Tecnologias Utilizadas
 
-### - React
+### - React 🚀 
 Biblioteca JavaScript para construção da interface.
 
-### - CSS
+### - CSS 🎨
 Estilização moderna e responsiva.
 
-### - Fetch API
+### - Fetch API 🔗
 Para consumir a API Rick and Morty.
 
 ### - React Hooks
 Uso dos hooks `useState` e `useEffect` para gerenciar estado e efeitos colaterais.
+
+
+## Como Executar -------------------------------------------------->
+
+### 1. Clone o repositório:
+```bash
+git clone https://github.com/pedro-dv/API_Rick_and_Morty
+
+## Entre no diretorio do projeto:
+- cd API_RickAndMorty
+## Instale as dependencias: 
+- npm install
+## Inicie a aplicação:
+- npm start
+
+- A aplicação estará disponível em http://localhost:3000 para visualização.
 
 
 
