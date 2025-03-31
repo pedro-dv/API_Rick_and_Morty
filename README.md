@@ -1,6 +1,9 @@
 # Rick and Morty Character Search
 
-![Rick and Morty](coloque_aqui_o_link_da_imagem_ou_GIF)
+## Layout da pagina:
+
+![Rick and Morty](https://github.com/user-attachments/assets/363042d3-03de-4ab1-b40d-0fd90c1dc5ab)
+
 
 ## Descrição
 
